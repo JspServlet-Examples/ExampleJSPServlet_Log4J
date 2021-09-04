@@ -52,6 +52,7 @@
 				<button type="submit" class="btn btn-primary" >Crea Jugador</button>
 			</div>
 	</form>
+	<a href="index.jsp">Principal</a>
 </div>
 
 
