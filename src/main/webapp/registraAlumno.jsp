@@ -39,7 +39,7 @@
 
 
 	<form action="registraAlumno" id="id_form"> 
-			<input type="hidden" name="metodo" value="registra">	
+			<input type="hidden" name="metodo" value=registrarAlumno>	
 			<div class="form-group">
 				<label class="control-label" for="id_nombre">Nombres</label>
 				<input class="form-control" type="text" id="id_nombre" name="nombre" placeholder="Ingrese el nombre">
